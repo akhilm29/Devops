@@ -1,0 +1,1 @@
+This is a new text file created on dev branch in local and will push to github and then merge it with main.
